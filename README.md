@@ -1,4 +1,4 @@
-# qubtcoin-chain
+# Qubtcoin-chain
 qubtcoin
 
 ```markdown
