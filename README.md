@@ -1,0 +1,2 @@
+# qubtcoin-chain
+qubtcoin
