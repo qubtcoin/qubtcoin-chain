@@ -277,7 +277,7 @@ Tokenomics
 
 Fixed Supply Model
 
-Total supply is permanently capped at 662,607,015 QBT, derived from Planck's constant (6.62607015 × 10⁻³⁴ J⋅s) scaled to 10¹⁵ for practical divisibility.
+Total supply is permanently capped at 662,607,015 Qubtcoin, derived from Planck's constant (6.62607015 × 10⁻³⁴ J⋅s) scaled to 10¹⁵ for practical divisibility.
 
 ```python
 class QubtTokenomics:
